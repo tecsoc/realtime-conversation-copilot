@@ -9,9 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@chengsokdara/use-whisper": "^0.2.0",
-    "@ffmpeg/core": "~0.11.0",
-    "@types/node": "20.5.9",
+    "@types/node": "^20.5.9",
     "@types/react": "18.2.21",
     "@types/react-dom": "18.2.7",
     "eslint": "8.48.0",
@@ -19,9 +17,11 @@
     "next": "13.4.19",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-mic": "^12.4.6",
     "typescript": "5.2.2"
   },
   "devDependencies": {
+    "@types/react-mic": "^12.4.3",
     "encoding": "^0.1.13",
     "sass": "^1.66.1"
   }
