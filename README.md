@@ -1,3 +1,11 @@
+## ゴール
+自分が喋った音声をSpeech to Textし、そのテキストから次に喋る内容を提案し会話を支援する
+
+## 現状
+* 自分が喋った音声をMedia Capture and Streams APIで記録し、リアルタイムで再生される
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
